@@ -1,0 +1,6 @@
+__pycache__
+.venv
+.vscode
+.mypy_cache
+.DS_Store
+coding-room.code-workspace
